@@ -115,7 +115,7 @@ section{
 .home-img {
     width: 40rem;
     height: 40rem;
-    border: 5px solid var(--main-color);
+    border: 5px solid var(--muted-color);
     border-radius: 50%;
     overflow: hidden;
     display: flex;
