@@ -290,7 +290,7 @@ section.about{
 .about-content p {
     font-size: 2.5rem;
     margin-bottom: 2rem;
-    color: var(--secondary-color);
+    color: var(--muted-color);
 }
   
 .about-tabs {
@@ -382,7 +382,7 @@ section.about{
 .certifications-list li h1,
 .skills-list li h1 {
     font-size: 2.4rem;
-    font-weight: bold;
+    font-weight: normal;
     margin-bottom: 0.5rem;
     color: var(--highlight-color);
 }
@@ -391,7 +391,7 @@ section.about{
 .certifications-list li h2,
 .skills-list li h2 {
     font-size: 2rem;
-    font-weight: 600;
+    font-weight: 400;
     margin-bottom: 0.3rem;
 }
 
@@ -739,7 +739,7 @@ section.project {
 .project-layer h2 {
     font-size: 1.2rem;
     margin-bottom: 20px;
-    font-weight: bold;
+    font-weight: normal;
     color: var(--secondary-color);
 }
   
