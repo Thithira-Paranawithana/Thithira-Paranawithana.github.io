@@ -276,6 +276,7 @@ section {
 .btn {
     display: inline-flex;
     align-items: center;
+    justify-content: center; 
     gap: 1rem;
     padding: 1.5rem 3rem;
     font-size: 1.6rem;
