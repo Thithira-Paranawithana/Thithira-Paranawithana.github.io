@@ -504,9 +504,8 @@ section {
     border: 1px solid var(--border-color);
 }
 
-.tab-content.active {
-    display: block !important;
-
+.tab-content.active {	
+    display: block;
     animation: fadeIn 0.5s ease;
 }
 
