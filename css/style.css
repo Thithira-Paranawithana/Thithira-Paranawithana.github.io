@@ -505,7 +505,8 @@ section {
 }
 
 .tab-content.active {
-    display: block;
+    display: block !important;
+
     animation: fadeIn 0.5s ease;
 }
 
